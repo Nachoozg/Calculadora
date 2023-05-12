@@ -1,4 +1,4 @@
-/*Nombre del programa: IgnacioZaldo_calculadora.c
+/*Nombre del programa: Calculadora
  * Descripción: este es un programa que sirve para poder sumar,restar,multiplicar y dividir dos números que se piden a la persona que utiliza el programa. Primero pide uno de los dos números con los que se va a operar, despúes pide el signo o la operación que se quiere hacer (por ejemplol la suma y habría que introducir el signo +) y por último pide el otro número para poder operar.
  * Autor: Ignacio Zaldo González
  * Fecha: 08/03/2022
